@@ -1,5 +1,7 @@
 # medical_reocrd_api
 
+This api is developed using Node js, express js <br>
+
 This api contains signup,login,adding medical records,searching records and logout <br>
 
 1)  Signup <br>
